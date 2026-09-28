@@ -1,0 +1,6 @@
+{
+  "name": "CineDirector — Unreal Engine & VFX Production Studio",
+  "description": "Shot-centric filmmaking production dashboard for solo creators, Unreal Engine cinematic directors, and VFX artists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
